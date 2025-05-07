@@ -142,24 +142,6 @@ Muestra una tabla de esta forma, para facilitar la obsrvación de los resultados
 1       2027      2750.765683
 2       2028      2755.253615`
 
-### **Interfaz Gráfica (Kivy)**
-
-> **Hecha por:** _Santiago Machado_ y _Cristian Toro_
-
-Para ejecutar la interfaz gráfica del proyecto, primero asegúrate de estar ubicado en el siguiente directorio:
-
-`C:\Users\Usuario\VSCode_Projects\EconometricModel_ML`
-
-Luego, puedes correr la interfaz de dos maneras:
-
-- **Desde el código fuente:**  
-  Ejecuta el siguiente comando en la consola:
-
-  `py src/view/graphic_interface/main.py`
-
-- **Desde el ejecutable:**  
-  Si prefieres utilizar el ejecutable, ejecuta el siguiente comando en la consola:
-  `dist/main.exe`
 
 ## **Contribuciones**
 
@@ -170,6 +152,25 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 3. Realiza tus cambios y haz commit (`git commit -m 'Añade nueva funcionalidad'`).
 4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
+
+### **Interfaz Gráfica (Kivy)**
+
+> **Hecha por:** _Santiago Machado_ y _Cristian Toro_
+
+Para ejecutar la interfaz gráfica del proyecto, primero asegúrate de estar ubicado en el siguiente directorio:
+
+```C:\Users\Usuario\VSCode_Projects\EconometricModel_ML```
+
+Luego, puedes correr la interfaz de dos maneras:
+
+- **Desde el código fuente:**  
+  Ejecuta el siguiente comando en la consola:
+
+  ```py src/view/graphic_interface/main.py```
+
+- **Desde el ejecutable:**  
+  Si prefieres utilizar el ejecutable, ejecuta el siguiente comando en la consola:
+  `dist/main.exe`
 
 ---
 
