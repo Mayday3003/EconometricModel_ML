@@ -159,14 +159,18 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Para ejecutar la interfaz gráfica del proyecto, primero asegúrate de estar ubicado en el siguiente directorio:
 
-```C:\Users\Usuario\VSCode_Projects\EconometricModel_ML```
+```
+C:\Users\Usuario\VSCode_Projects\EconometricModel_ML
+```
 
 Luego, puedes correr la interfaz de dos maneras:
 
 - **Desde el código fuente:**  
   Ejecuta el siguiente comando en la consola:
 
-  ```py src/view/graphic_interface/main.py```
+```
+  py src/view/graphic_interface/main.py
+```
 
 - **Desde el ejecutable:**  
   Si prefieres utilizar el ejecutable, ejecuta el siguiente comando en la consola:
